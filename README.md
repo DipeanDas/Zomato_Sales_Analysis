@@ -1,7 +1,9 @@
 # 🍽️ Zomato_Sales_Analysis
+---
 Zomato_Sales _Analysis project is all about the analysis of the sales and users data of Zomato all over the world. The analysis and visualization is carried out in PowerBI.
 Zomato Datasets used for analysis are Food, menu, orders, restaurant and users datasets.</br>
 The **three** dashboards(overview, user performance, city performance) covers **overall sales performance, user engagement, and city-wise distribution**, enabling deeper insights into customer behavior and sales patterns.
+
 ---
 
 ## 📊 Key Performance Indicators (KPIs)
