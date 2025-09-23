@@ -1,9 +1,71 @@
-# Zomato_Sales_Analysis
+# 🍽️ Zomato_Sales_Analysis
 Zomato_Sales _Analysis project is all about the analysis of the sales and users data of Zomato all over the world. The analysis and visualization is carried out in PowerBI.
 Zomato Datasets used for analysis are Food, menu, orders, restaurant and users datasets.</br>
+The **three** dashboards(overview, user performance, city performance) covers **overall sales performance, user engagement, and city-wise distribution**, enabling deeper insights into customer behavior and sales patterns.
+---
 
-**KPIs: Order amount, Sale by Year, Users by age, Customer Gain, Customer Loss, Sale value, Rating Count, Overall sales and orders**</br>
-</br>
-![Image1](https://github.com/DipeanDas/Zomato_Sales_Analysis/assets/114298558/112adc25-7266-4328-830b-a84794a7f5f4)
-![Image2](https://github.com/DipeanDas/Zomato_Sales_Analysis/assets/114298558/48b1beb1-b937-479c-a5b1-b7cb3593e4f2)
-![Image3](https://github.com/DipeanDas/Zomato_Sales_Analysis/assets/114298558/92d6bfb1-ca27-4e64-b888-ea91e3e06f6b)
+## 📊 Key Performance Indicators (KPIs)
+- **Order Amount:** 987M  
+- **Quantity Sold:** 2M  
+- **Total Ratings:** 148K  
+- **Total Orders:** 150K  
+- **User Active:** 78K  
+- **User Count:** 100K  
+- **Customer Gain:** 12K (6.5K Male, 5.1K Female)  
+- **Customer Loss:** 33K (18.8K Male, 14K Female)  
+
+---
+## 📷 Dashboard Overview
+
+### 1️⃣ Overview Dashboard
+- **Sales Breakdown:**  
+  - Veg: 122M  
+  - Non-Veg: 106M  
+  - Others: 24M  
+- **City-wise Contribution:** Highest in **Tirupati, Electronic City, Baner/Pune, and Raipur**.  
+- **Yearly Sales Trend:**  
+  - Peak sales in **2018 (0.41B)**.  
+  - Gradual decline to **0.14B in 2020**.  
+
+---
+
+### 2️⃣ User Performance Dashboard
+- **Active Users:** 78K | **Total Users:** 100K  
+- **Customer Gains vs Losses:**  
+  - Gained 12K customers.  
+  - Lost 33K customers, with higher male attrition.  
+- **Age Distribution:**  
+  - Majority of users are between **22–27 years old**.  
+
+---
+
+### 3️⃣ City Performance Dashboard
+- **Overall Sales & Orders:** 2.44M sales across 150K orders.  
+- **Top Cities by Sales Value:** Electronic City, Old Gurgaon, Gorakhpur.  
+- **Top Cities by Ratings:** Bikaner, Noida-1, Indirapuram.  
+- **Top Cities by User Count:** Bikaner, Others, Noida-1.  
+
+---
+
+## 🛠️ Tools & Technologies
+- **Power BI** → Dashboard design & data visualization  
+- **MS Excel / CSV** → Data source  
+
+---
+
+## 📌 Insights
+- **Sales peaked in 2018** and then dropped, indicating a shift in consumer behavior or external market factors.  
+- **Veg items dominate sales**, but Non-Veg also contributes significantly.  
+- **High customer churn** (33K lost vs 12K gained) suggests a need for retention strategies.  
+- **Electronic City and Tirupati** are key revenue drivers.  
+- **Younger demographics (22–27 years)** are the most active Zomato users.  
+
+---
+
+## 🚀 Future Enhancements
+- Add **predictive models** to forecast sales trends.  
+- Track **marketing campaign effectiveness**.  
+- Enhance user segmentation for personalized recommendations.
+
+
+
