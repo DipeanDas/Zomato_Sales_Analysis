@@ -67,7 +67,7 @@ The **three** dashboards(overview, user performance, city performance) covers **
 - Enhance user segmentation for personalized recommendations.
 
 ## Project By
-**Dipean Dasgupta**
+**Dipean Dasgupta** <br>
 **Data Analyst & AIML Enthusiast**
 
 
