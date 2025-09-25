@@ -29,6 +29,8 @@ The **three** dashboards(overview, user performance, city performance) covers **
   - Peak sales in **2018 (0.41B)**.  
   - Gradual decline to **0.14B in 2020**.  
 
+<img width="829" height="469" alt="Overall_performance" src="https://github.com/user-attachments/assets/dfff53ee-1e74-4fd8-91ff-36ff6e9acbce" />
+
 
 ### 2️⃣ User Performance Dashboard
 - **Active Users:** 78K | **Total Users:** 100K  
@@ -38,6 +40,7 @@ The **three** dashboards(overview, user performance, city performance) covers **
 - **Age Distribution:**  
   - Majority of users are between **22–27 years old**.  
 
+<img width="820" height="452" alt="user_performance" src="https://github.com/user-attachments/assets/32577a93-cd89-4287-a7a0-9044dd4fcb3a" />
 
 
 ### 3️⃣ City Performance Dashboard
@@ -46,6 +49,7 @@ The **three** dashboards(overview, user performance, city performance) covers **
 - **Top Cities by Ratings:** Bikaner, Noida-1, Indirapuram.  
 - **Top Cities by User Count:** Bikaner, Others, Noida-1.  
 
+<img width="829" height="459" alt="city_performance" src="https://github.com/user-attachments/assets/7003ed4f-7f57-42c7-b4ef-a64e55671115" />
 
 
 ## 🛠️ Tools & Technologies
